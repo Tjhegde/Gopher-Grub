@@ -27,6 +27,5 @@ Heroku Deployment: Configured and deployed the application on Heroku, ensuring t
 ### Raj Esakimuthu
 Deployment and Domain Management: Deployed the website via GitHub Pages, purchased and configured a custom domain through NameCheap, and set up DNS and HTTPS for secure access.
 
-Frontend: Crafted a user-focused interface for the website, delivering a visually appealing design and intuitive navigation.
-
 ### Tejas Hegde
+Frontend: Crafted a user-focused interface for the website, delivering a visually appealing design and intuitive navigation.
