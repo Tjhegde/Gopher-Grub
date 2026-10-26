@@ -12,20 +12,3 @@ umngg.com
 
 ## Project Description
 GopherGrub is a web application that allows users to rate and review various dining halls on a university campus. The application takes user ratings to provide an average rating for each dining hall, helping students and staff make informed dining decisions. Users can also view and leave comments on specific dining halls, making it a community-driven platform for dining feedback.
-
-
-## Group Credits
-### Muhil Ramesh
-Backend Development: 
-Server Setup with Node.js and Express: Developed the backend using Node.js and Express.
-
-LowDB Integration: Integrated LowDB to store ratings and comments. Ensured that the database is initialized with default data, avoiding errors when the application is first run.
-
-Data Management: Implemented logic to take user ratings and calculate the average rating for each dining hall. Also, developed functionality to clear all reviews from the database when necessary (admin-only feature).
-
-Heroku Deployment: Configured and deployed the application on Heroku, ensuring the backend is accessible and the app runs smoothly on a cloud platform.
-### Raj Esakimuthu
-Deployment and Domain Management: Deployed the website via GitHub Pages, purchased and configured a custom domain through NameCheap, and set up DNS and HTTPS for secure access.
-
-### Tejas Hegde
-Frontend: Crafted a user-focused interface for the website, delivering a visually appealing design and intuitive navigation.
