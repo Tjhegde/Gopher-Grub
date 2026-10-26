@@ -5,7 +5,6 @@
 # Table of Contents
 1. [Gopher Grub Website URL](#gopher-grub-website-url)
 2. [Project Description](#project-description)
-3. [Group Credits](#group-credits)
 
 ## Gopher Grub Website URL
 umngg.com
